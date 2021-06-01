@@ -146,6 +146,7 @@ const sifatJson = [
   "astronomer",
   "professional golf player",
   "detective",
+  "enginer",
 ];
 
 export default sifatJson;
